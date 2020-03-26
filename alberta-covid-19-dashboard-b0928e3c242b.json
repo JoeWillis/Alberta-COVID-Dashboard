@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alberta-covid-19-dashboard",
+  "private_key_id": "b0928e3c242b6d768f0fe4b350d5b2a7ed490281",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt25u/hbO/gK2E\n/WEqswbp/ADer5Pn+FgjwfTC34nGm3dYByDmLl122muIn+8F8ATPgys07ycjh/4n\nJAobaNbIGU/cnfxiMkYX4sA5iXOYLDKcVKcO2/28mHHoJcK54EQX5jfHEejfZLGr\nyGkqkMJKRdEbNHxfrJg3oDUYH4PSsIwsGK1+qcZwvJoZZIa2/Yj60xx9bgvQEXGI\ngc04wdG/UysEPtg1jUjSx5LP+Vxc9L3R+SAtMJOwpPjNHnhkqA33O05WuEeqYt+V\n9y1FNsBqa4lk9aG1ZrR+rcGgtjLrdPVvVZYQYIycuhibp+3cAq+Mu3qdFmN1lzd3\nG58uLErXAgMBAAECggEAJn8ToBdrYzKLeYCfdNR6afIegTCQiBNR9Oz8FPBpcfw3\ns1q0urM2h9w6ZmC/jOmGLyrEtO5llLUGnkUZJdOTh3AvYlLrMRUftydC2Bqq6V2U\nAVCvQxeMOifpRPWjhgP2H/KelCpPjbOescJpIv81vjtyX1tCVO8DL4H+b65+wnZu\nwgb/iUN2zAtuqv3EK2MXpODFOXmTa7ym7SttMxQgS3ATpX1HXbXY9X3sCgF3jj/s\nbTyZ6rbBKtzUPWMLczZFDKd3su2u0uuzQmB1g0ficwuQr9rQf7Eba6+VspcUOZxK\nFgJiEXzyrl+QkPcbNGU1e7TqXxbmEuClhRNf/+0GuQKBgQDZoq5AoR74a1gJcXkP\nb4jHY/S9ikdZDJMQ/HNzAO8jaYHLlKkP+g/QPjUHCXRJ2hj1eaCEaCbSoT+kl6M4\ndYHZewoOr6SyfW4tmvFYa2MRDAhrzZsE6rOXzmFrjkbRdmZqIIDw6wrt0NLMnwBa\nT18svDPXUz4om6pKU+kmmKaQeQKBgQDMgVumTy2I5xuSKCMV8zS8Xjlsjj9D9nLs\n1Tm3fKTwjN6TY1NmpD1cJ4jOuZs6gjuNr3Lvayl+IuFsjMhaeIar1D09COYgMfKn\njaKBNbZ52vyQNRexd5cWSd+W1qlw6pmJGzjPc6AvxBxPRIWPqNJwTTgwfQaYy2Tj\nXoI3dxUBzwKBgQDU/w4jWo0A+62xsEiW/sWSvxTr28VwNYpJeYlT6Hoi4kORhvDf\nHhET8Y3cUThqfvUmad7bN0OnqQCsiWvI+dgXjP+O2AAMYA3QvG+v5YmTSX+EYjlx\nWnJiBC38IcbVgVdCToVjQ+XyUgm9EXA68qtnENp7xpBzFcZX8D+i8osxoQKBgQCx\nh2pESV/CBL4OdwFeQK57B2DaN/H70amaps9f1bhpiiB92i/AXrtVkIxWyRFUDVId\ngT1JUcHHWghO7zfOMerWp3wxy9PaBwIbKfz0Jeiuh8fQeAaFbMef9ak/jEGzYDTA\nrPz4OevJC3l35of7Wha0npQ0o5Rid86xAo4QEDQQSQKBgEyaM43F7eD0lv1JEGxL\n/W4vxD29gxeCal5zCh8nHhoCTl9emB4GHyqUFR88cBOPZ3VD3Fb/BkDmW2+PJKsC\nXWvbUOtcoOs3KhkGAhsBc0HCmFzMnfknZaeeqwhErSno69NzDjlFFesaK1qEBqDX\nwvnxiO0S89Ch/idpYjfLTI27\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@alberta-covid-19-dashboard.iam.gserviceaccount.com",
+  "client_id": "108627912791093818542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40alberta-covid-19-dashboard.iam.gserviceaccount.com"
+}
