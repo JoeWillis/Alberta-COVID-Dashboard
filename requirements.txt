@@ -6,4 +6,5 @@ plotly
 sklearn
 gspread
 oauth2client
+df2gspread
 voila
