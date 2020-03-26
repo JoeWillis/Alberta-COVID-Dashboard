@@ -4,4 +4,6 @@ seaborn
 matplotlib
 plotly
 sklearn
+gspread
+oauth2client
 voila
