@@ -5,5 +5,5 @@ matplotlib
 plotly
 sklearn
 ipywidgets
-scipy
+scipy.optimize
 warnings
